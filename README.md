@@ -1,57 +1,87 @@
+<!-- **jaimeroncal/jaimeroncal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile 
+     Created following this tutorial https://www.sitepoint.com/github-profile-readme/ -->
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/lordarcadius/portfolio/blob/master/LICENSE)
+<!-- 🦖 DINOSAUR 🦖 -->
+<div id="header" align="center">
+  <!-- <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="300"/> -->
+  <img src="https://user-images.githubusercontent.com/55926526/196005926-6d1ce584-cd79-4180-bc45-79f8153f5a88.png" width="300"/>
+</div>
 
-  
-# Personal Portfolio
+<!-- 😍 SOCIAL MEDIA 😍 -->
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/jaime-roncal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://youtu.be/dQw4w9WgXcQ">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/jaimeeee14">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
-A portfolio built in React and NextJS. Simple, clean and fast.
+<!-- 👀 VIEWS 👀 -->
+<div id="views" align="center">
+<img src="https://komarev.com/ghpvc/?username=jaimeroncal&style=flat-square&color=blue" alt=""/>
+</div>
 
-**Note: The logo and banner used in the project are my intellectual property. Please refrain from using it anywhere.**
 
+<!-- ⚠️ UNDER CONSTRUCTION ⚠️-->
+<!--### ⚠️ Page under construction
 
+<div id="workingonit" align="center">
+  <img src="https://maggiebrennan.com/press/img/underconstruction.gif" width="300"/>
+</div>
 
-![App Screenshot](https://i.ibb.co/jRRNMkH/Screenshot-from-2021-10-27-18-45-14.png)
+--- -->
+<!-- EMOJIS REPO:  https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md -->
+---
+<!-- 🧍 ABOUT ME 🧍 -->
+### :man_technologist: About Me :
+<div align="center">
+  My name is Jaime Roncal and i'm a Computer Science student &nbsp; <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> &nbsp; from Zaragoza, Spain.
+</div>
 
-  
-## Demo
+---
+<!-- 💻 LANGUAJES 💻 -->
+<!-- ICONS REPO:  https://github.com/devicons/devicon/tree/master/icons -->
+### :hammer_and_wrench: Languages and Tools :
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Go_gopher_favicon.svg" title="Golang" alt="Golang" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="AndroidStudio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="Mysql" alt="Mysql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/newrelic/newrelic-quickstarts/main/quickstarts/java/ibm-db2/logo.svg" title="DB2" alt="DB2" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/14636/jsp-open-file-format-with-java-logo.svg" title="JSP" alt="JSP" width="40" height="40"/><br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://seekvectorlogo.com/wp-content/uploads/2019/06/odoo-vector-logo.png" title="Odoo" alt="Odoo" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual" alt="Visual" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" title="Eclipse" alt="Eclipse" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
 
-[Live Preview](https://www.vipuljha.com)
+</div>
 
-## Run Project 
+<!-- 🔥 MY STATS 🔥 -->
+---
+### :fire: My Stats :
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=jaimeroncal&date_format=M%20j%5B%2C%20Y%5D"/>
+</div>
+<!--
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jaimeroncal&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/UNIZAR-30226-2022-04/Android)
 
-Run this project with Yarn
-
-```bash 
-  yarn && yarn run dev
-```
-    
-## Deployment
-
-To deploy this project run
-
-```bash
-  yarn build
-```
-
-  
-## Contributing
-
-Contributions are always welcome!
-
-Fork repo, make changes, test, create a pull request.
-
-Please make sure to maintain `authorship`.
-
-  
-## Credits
-
-- [@adrianhajdin](https://github.com/adrianhajdin) (The original author)
-- [@lordarcadius](https://github.com/lordarcadius) (I just fixed and modified few things)
-- [@dhruvsaxena1998](https://github.com/dhruvsaxena1998) (For help and PR)
-
-  
-## License
-
-[MIT](https://github.com/lordarcadius/portfolio/blob/master/LICENSE)
-
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaimeroncal&layout=compact)](https://github.com/UNIZAR-30226-2022-04/Android) 
+--->
