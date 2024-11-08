@@ -13,6 +13,9 @@
 # For more information about the robots.txt standard, see:
 # http://www.robotstxt.org/robotstxt.html
 
+# Sitemap
+Sitemap: https://www.jaimeroncal.com/sitemap.xml
+
 User-agent: *
 
 # Allow CSS, JS, Images
